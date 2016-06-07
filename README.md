@@ -19,3 +19,9 @@ I use a OSX so this assumes no other special config other than the default setti
    4. Using curl: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
    5. Use the .zshrc file
    
+* To use agnoster theme (my favourite):
+  1. change the theme in the .zshrc file
+  2. Install powerline fonts : https://github.com/powerline/fonts
+  3. To check if it works use: `echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"` and make sure you see valid symbols
+
+   
