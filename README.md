@@ -24,4 +24,5 @@ I use a OSX so this assumes no other special config other than the default setti
   2. Install powerline fonts : https://github.com/powerline/fonts
   3. To check if it works use: `echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"` and make sure you see valid symbols
 
+_WIP_: The issue now is to figure out how to shorten the path to make it all more readable. Make the absolute path into relative path.
    
