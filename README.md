@@ -1,6 +1,6 @@
 
 ###What is this?
-This repo contains my personal terminal configuration settings and related files. I am making this so that its easy for me to get my setup running on a new machine. (I hate ) 
+This repo contains my personal terminal configuration settings and related files. I am making this so that its easy for me to get my setup running on a new machine. (I hate going to the entire process of setting up the development environment whenever I get a new job, or when I buy a new computer..) 
 
 ###Can I use it?
 Yeah feel free to use it, make sure you change the user details in the dotfiles.
